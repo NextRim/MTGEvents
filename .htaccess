@@ -1,0 +1,6 @@
+AuthName "Enter login"
+AuthType Basic
+AuthUserFile /home/mtgevent/web/events.web-zon.ru/public_html/admin/.passwords
+require valid-user
+
+
